@@ -1,0 +1,23 @@
+[33mcommit e0f745354e5963f4df3629711ed1c0fd4a15e2a1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Boris Shaulov <b_shaulov@hotmail.com>
+Date:   Fri Apr 5 21:22:22 2024 -0400
+
+    Add the git ignore file and new.txt
+
+[33mcommit 098fa2c098f1abff879a1bb6219ab1a8cba47b4d[m
+Author: Boris Shaulov <b_shaulov@hotmail.com>
+Date:   Fri Apr 5 21:17:48 2024 -0400
+
+    add hello.txt
+
+[33mcommit f467e700668f61fb5264c7b2cddd4a39c452aee6[m
+Author: Boris Shaulov <b_shaulov@hotmail.com>
+Date:   Fri Apr 5 21:15:33 2024 -0400
+
+    add hello world to hello.js
+
+[33mcommit 38c92396f69467c5f4308ed34ffeb748964f5feb[m
+Author: Boris Shaulov <b_shaulov@hotmail.com>
+Date:   Fri Apr 5 21:12:44 2024 -0400
+
+    sample commit
